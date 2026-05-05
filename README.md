@@ -44,7 +44,7 @@ The SAP-1 is a simplified computer model designed for teaching purposes. It illu
 | JMP        | Jumper to adress         | 3xh
 | STA        | Copy A register to adress| cxh
 
-*** note that 'x' is an adress position ***
+## 🔎 note that 'x' is an adress position
 ---
 
 ## 🛠️ Tools Used
